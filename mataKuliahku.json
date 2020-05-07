@@ -1,0 +1,143 @@
+{"Semester1":
+    [
+    {
+    "id": "KU31101",
+    "mata_kuliah": "Bahasa Inggris I",
+    "semester": "1",
+    "nama_dosen": "Monalisa Pasribu, SS",
+    "nama_asisten_dosen":"-",
+    "no_handphone_dosen":"08139615912",
+    "no_handphone_asisten_dosen":"082372523723"
+    },
+    {
+        "id": "1031102",
+            "mata_kuliah": "Matematika Diskrit",
+            "semester": "1",
+            "nama_dosen": "Sari Muthia Silalahi, S.Pd., M.Ed",
+            "nama_asisten_dosen": "-",
+            "no_handphone_dosen": "082166078272",
+            "no_handphone_asisten_dosen": "-"
+        },
+        {
+            "id": "1331105",
+            "mata_kuliah": "Pengenalan Rekayasa Perangkat Lunak",
+            "semester": "1",
+            "nama_dosen": "Dr. Arnaldo Marulitua Sinaga, ST., M.InfoTech.",
+            "nama_asisten_dosen": "Hernawati Susanti Samosir, SST., M.Kom.",
+            "no_handphone_dosen": "081370869163",
+            "no_handphone_asisten_dosen": "081370869163"
+            },
+            {
+                "id": "1031103",
+                "mata_kuliah": "Arsitektur dan Organisasi Komputer",
+                "semester": "1",
+                "nama_dosen": "Istas Manalu, S.Si., M.Sc",
+                "nama_asisten_dosen": "Jansutris Apria Purba, A.Md.",
+                "no_handphone_dosen": "081270912827",
+                "no_handphone_asisten_dosen": "082273094486"
+                },
+                {
+                    "id": "1331104",
+                    "mata_kuliah": "Pengembangan Situs Web I",
+                    "semester": "1",
+                    "nama_dosen": "Ahmad Zatnika Purwalaksana, S.Si., M.Si.",
+                    "nama_asisten_dosen": "Romasi Gohana Sibarani, S.Kom",
+                    "no_handphone_dosen": "081223167157",
+                    "no_handphone_asisten_dosen": "-"
+                    },
+                    {
+                        "id": "TI31101",
+            "mata_kuliah": "Inovasi Digital",
+            "semester": "1",
+            "nama_dosen": "Eka Stephani Sinambela, SST., M.Sc.",
+            "nama_asisten_dosen": "Ahmad Zatnika Purwalaksana, S.Si., M.Si.",
+            "no_handphone_dosen": "082165027417",
+            "no_handphone_asisten_dosen": "081223167157"
+                        },
+                        {
+                            "id": "1031101",
+                            "mata_kuliah": "Dasar Pemrograman",
+                            "semester": "1",
+                            "nama_dosen": "Teamsar Muliadi Panggabean, S.Kom, PGCert",
+                            "nama_asisten_dosen": "Susi Eva Maria Purba, S.Kom",
+                            "no_handphone_dosen": "081263105978",
+                            "no_handphone_asisten_dosen": "-"
+                            },
+                            {
+                                "id": "KU311102",
+            "mata_kuliah": "Pembentukan Karakter Del",
+            "semester": "1",
+            "nama_dosen": "Dr. Arnaldo Marulitua Sinaga, ST., M.InfoTech.",
+            "nama_asisten_dosen": "Dr. Arlinta Christy Barus, ST., M.InfoTech.",
+            "no_handphone_dosen": "-",
+            "no_handphone_asisten_dosen": "-"
+                                },
+                                {
+                                    "id": "1031201",
+                                    "mata_kuliah": "Algoritma dan Struktur Data",
+                                    "semester": "2",
+                                    "nama_dosen": "Teamsar Muliadi Panggabean, S.Kom, PGCert",
+                                    "nama_asisten_dosen": "Albert Kelvin Hutapea, S.Kom.",
+                                    "no_handphone_dosen": "081263105978",
+                                    "no_handphone_asisten_dosen": "081350447850"
+                                    },
+                                    {
+                                        "id": "1031202",
+            "mata_kuliah": "Sistem Operasi",
+            "semester": "2",
+            "nama_dosen": "Istas Manalu, S.Si., M.Sc",
+            "nama_asisten_dosen": "Jansutris Apria Purba, A.Md.",
+            "no_handphone_dosen": "081270912827",
+            "no_handphone_asisten_dosen": "082273094486"
+                                        },
+                                        {
+                                            "id": "1031203",
+            "mata_kuliah": "Aljabar Linier",
+            "semester": "2",
+            "nama_dosen": "Sari Muthia Silalahi, S.Pd., M.Ed",
+            "nama_asisten_dosen": "-",
+            "no_handphone_dosen": "082166078272",
+            "no_handphone_asisten_dosen": "-"
+                                            },
+                                            {
+                                                "id": "1331204",
+            "mata_kuliah": "Pengembangan Aplikasi Berbasis Internet",
+            "semester": "2",
+            "nama_dosen": "Marojahan MT. Sigiro, ST., M.Sc",
+            "nama_asisten_dosen": "Jansutris Apria Purba, A.Md.",
+            "no_handphone_dosen": "081265991465",
+            "no_handphone_asisten_dosen": "082273094486"
+                                                },
+                                                {
+                                                    "id": "1331205",
+            "mata_kuliah": "Proyek Akhir Tahun I",
+            "semester": "2",
+            "nama_dosen": "Sari Muthia Silalahi, S.Pd., M.Ed",
+            "nama_asisten_dosen": "-",
+            "no_handphone_dosen": "082166078272",
+            "no_handphone_asisten_dosen": "-"
+                                                    },
+                                                    {
+                                                        "id": "KU31201",
+            "mata_kuliah": "Bahasa Inggris II",
+            "semester": "2",
+            "nama_dosen": "Juli Yanti Damanik, S.S., M.Tesol.",
+            "nama_asisten_dosen": "-",
+            "no_handphone_dosen": "082163646491",
+            "no_handphone_asisten_dosen": "-"
+                                                        },
+                                                        {
+                                                            "id": "1331206",
+            "mata_kuliah": "Pengenalan Basis Data",
+            "semester": "2",
+            "nama_dosen": "Verawaty Situmorang, S.Kom., M.T.I",
+            "nama_asisten_dosen": "Dwide Elizabeth Sembiring, S.Kom.",
+            "no_handphone_dosen": "082160107247",
+            "no_handphone_asisten_dosen": "087885293744"
+                                                        }
+
+                                            
+
+                                
+    ]
+    }
